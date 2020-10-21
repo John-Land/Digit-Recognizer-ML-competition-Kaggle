@@ -1402,8 +1402,3 @@ print("Your submission was successfully saved!")
 
     Your submission was successfully saved!
     
-
-
-```python
-
-```
